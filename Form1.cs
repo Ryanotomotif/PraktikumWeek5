@@ -27,7 +27,7 @@ namespace PraktikumWeek5
 			listBox_data.Items.Add(textBox_InputData.Text);
 			if (textBox_InputData.Text == listBox_data.Items.ToString())
 			{
-				MessageBox.Show("Data Sudah Ada");
+				MessageBox.Show("Input Kembar");
 			}
 		}
 
